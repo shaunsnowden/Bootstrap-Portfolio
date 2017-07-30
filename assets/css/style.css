@@ -1,0 +1,157 @@
+body {
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+	height: 100%;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	background-color: lightgray;
+	color: #777777;
+}
+
+.navbar-brand {
+	font-size: 28pt;
+	color: #e5e5e5;
+	font-weight: bold;
+}
+
+.navbar-inverse {
+	color: #e5e5e5;
+}
+
+a.link{
+	color: #777777;
+}
+
+a:visited{
+	color: #777777;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+}
+
+.navbar-right {
+	font-size: 14pt
+}
+
+.container-fluid {
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+}
+
+.img-thumbnail {
+	height: 55pt;
+	width: 55pt;
+	float: left;
+	margin: 1pt;
+}
+
+p {
+	padding: 20pt;
+	line-height: 1.75;
+	padding-top: 15pt;
+	font-size: 14pt;
+}
+
+#Section1 {
+	float: left;
+	background-color: #ffffff;
+	margin-top: 20pt;
+	margin-left: 30pt;
+	margin-bottom: 10pt;
+}
+
+section{
+	border: 1pt solid #cccccc;
+	padding-bottom: 20pt;
+}
+
+h2 { 
+	color:#4aaaa5;
+	padding-top: 10pt; 
+	padding-bottom: 15pt;
+	font-size: 23pt;
+	border-bottom: 1.5pt solid lightgray;
+	margin-left: 20pt; 
+	margin-right: 20pt;
+	font-weight: bold;
+}
+
+#Image {
+	float: left;
+	margin-left: 20pt;
+	margin-top: 20pt;
+	margin-right: 20pt;
+}
+
+#Section2 {
+	background-color: #ffffff;
+	margin-top: 20pt;
+	margin-left: 30pt;
+	justify-content: center;
+	padding: 20pt;
+	height: 150pt;
+	float:left;
+}
+
+h3 { 
+	color:#4aaaa5; 
+	padding-bottom: 20pt;
+	font-size: 17pt;
+	font-weight: bold;
+	border-bottom: 1pt solid lightgray;
+	margin-right: 10pt;
+	margin-bottom: 15pt;
+	margin-top: 0pt;
+}
+
+.text-muted {
+	color: #e5e5e5;
+}
+
+.btn-primary {
+	background-color: #4aaaa5;
+}
+
+#form-wrapper {
+	background-color: #ffffff;
+	border: 1pt solid #cccccc;
+	padding-bottom: 20pt;
+	padding-right: 10pt;
+	margin-top: 20pt;
+	margin-left: 30pt;
+	margin-bottom: 10pt;
+}
+
+.img-container {
+	margin: 30pt 30pt 0 35pt;
+	float: left;
+}
+
+.banner {
+	background-color: #4aaaa5;
+	color: white;
+	text-align: center;
+	width: 300px;
+	position: relative;
+	font-size: 14pt;
+	padding: 10pt 0 10pt 0;
+	top: -70pt;
+	opacity:.93;
+}
+
+
+.clear {
+	clear: both;
+}
+
+footer {
+	background-color: #666666;
+	border-style: solid;
+	border-color: #4aaaa5;
+	border-top-width: 5pt;
+	text-align: center;
+	margin-top: 20pt;
+}
